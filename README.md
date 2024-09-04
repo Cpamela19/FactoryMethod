@@ -1,1 +1,2 @@
 # FactoryMethod
+composer dump-autoload
